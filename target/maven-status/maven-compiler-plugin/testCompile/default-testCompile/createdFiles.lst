@@ -1,0 +1,7 @@
+models\AlumnoTest.class
+services\AlumnoServiceImplTest$TestFinAlumnoForName.class
+models\AlumnoTest$testCalcularPromedio.class
+models\AlumnoTest$testGetAndSetter.class
+services\AlumnoServiceImplTest.class
+services\AlumnoServiceImplTest$TestSaveAlumno.class
+models\AlumnoTest$testAgregarNota.class
