@@ -50,7 +50,7 @@ El objetivo de este proyecto es proporcionar una introducción práctica a las p
     target/site/jacoco/index.html
     ```
 
-[Reporte de la prueba en HTML](target/site/jacoco/index.html)
+[Reporte de la prueba en HTML](target/site/jacoco/index.html){:target="_blank"}
 
 ## Enlaces
 
