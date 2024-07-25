@@ -50,13 +50,13 @@ El objetivo de este proyecto es proporcionar una introducción práctica a las p
     target/site/jacoco/index.html
     ```
 
-[Reporte de la prueba en HTML](target/site/jacoco/index.html){:target="_blank"}
+<a href="target/site/jacoco/index.html" target="_blank">Reporte de la prueba en HTML</a>
 
 ## Enlaces
 
-- [Documentación de JUnit5](https://junit.org/junit5/docs/current/user-guide/)
-- [Documentación de Mockito](https://site.mockito.org/)
-- [Documentación de Jacoco](https://www.jacoco.org/jacoco/trunk/doc/)
+- <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank">Documentación de JUnit5</a>
+- <a href="https://site.mockito.org/" target="_blank">Documentación de Mockito</a>
+- <a href="https://www.jacoco.org/jacoco/trunk/doc/" target="_blank">Documentación de Jacoco</a>
 
 ---
 
