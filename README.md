@@ -49,8 +49,7 @@ El objetivo de este proyecto es proporcionar una introducción práctica a las p
     ```
     target/site/jacoco/index.html
     ```
-
-<a href="target/site/jacoco/index.html" target="_blank">Reporte de la prueba en HTML</a>
+![Reporte de Jacoco](Reporte-Jacoco.jpeg)
 
 ## Enlaces
 
