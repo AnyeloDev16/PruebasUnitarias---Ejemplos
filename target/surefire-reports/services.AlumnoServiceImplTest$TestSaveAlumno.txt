@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: services.AlumnoServiceImplTest$TestSaveAlumno
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.91 s -- in services.AlumnoServiceImplTest$TestSaveAlumno
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.633 s -- in services.AlumnoServiceImplTest$TestSaveAlumno

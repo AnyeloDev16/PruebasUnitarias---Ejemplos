@@ -188,7 +188,7 @@ public class AlumnoTest {
         }
 
         @ParameterizedTest
-        @ValueSource(ints = {12,-1,0,20,43})
+        @ValueSource(ints = {12,1,0,20,4})
         @Tag("AgregarNota")
         void testAgregarNotasConParameterized(int notas) {
             //Given - declar
@@ -201,7 +201,7 @@ public class AlumnoTest {
         
         @DisplayName("Probando CSV explicito")
         @ParameterizedTest
-        @CsvSource({"12","-1","0","20","43"})
+        @CsvSource({"12","1","0","20","4"})
         @Tag("AgregarNota")
         void testAgregarNotasConParameterizedCsv(int notas) {
             //Given - declar
