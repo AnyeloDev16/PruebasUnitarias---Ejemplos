@@ -24,7 +24,7 @@ El objetivo de este proyecto es proporcionar una introducción práctica a las p
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/AnyeloDev16/PruebasUnitarias-Ejemplos.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
