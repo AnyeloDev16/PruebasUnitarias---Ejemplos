@@ -28,7 +28,7 @@ El objetivo de este proyecto es proporcionar una introducción práctica a las p
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd tu-repositorio
+    cd repositorio-clonado
     ```
 
 ## Uso
